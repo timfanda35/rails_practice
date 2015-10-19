@@ -5,6 +5,9 @@ require "minitest/rails"
 require "minitest/reporters"
 Minitest::Reporters.use! [Minitest::Reporters::SpecReporter.new]
 
+require "codeclimate-test-reporter"
+CodeClimate::TestReporter.start
+
 # To add Capybara feature tests add `gem "minitest-rails-capybara"`
 # to the test group in the Gemfile and uncomment the following:
 # require "minitest/rails/capybara"
