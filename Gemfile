@@ -54,3 +54,6 @@ group :production do
   gem 'puma'
 end
 
+gem 'rollbar', '~> 2.4.0'
+gem 'oj', '~> 2.12.14'
+
