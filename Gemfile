@@ -56,4 +56,4 @@ end
 
 gem 'rollbar'
 gem 'oj'
-
+gem 'react-rails', '~> 1.5.0'
