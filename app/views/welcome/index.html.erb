@@ -1,2 +1,11 @@
 <h1> Bear Rails Practice</h1>
 
+<%=
+  react_component(
+    'AppInfo',
+    {
+      app_name: AppInfo.app_name,
+      rails_version: AppInfo.rails_version
+    }
+  )
+%>
