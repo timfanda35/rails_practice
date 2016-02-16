@@ -137,7 +137,7 @@ GEM
       execjs
       rails (>= 3.2)
       tilt
-    rollbar (2.7.1)
+    rollbar (2.8.0)
       multi_json
     ruby-progressbar (1.7.5)
     sass (3.4.21)
