@@ -56,6 +56,5 @@ end
 
 gem 'rollbar'
 gem 'oj'
-gem 'react-rails', '~> 1.6.2'
 gem 'nokogiri', '>= 1.6.7.2'
 gem 'rails-html-sanitizer', '~> 1.0.3'
