@@ -130,7 +130,7 @@ GEM
     rake (11.1.1)
     rdoc (4.2.2)
       json (~> 1.4)
-    react-rails (1.5.0)
+    react-rails (1.6.2)
       babel-transpiler (>= 0.7.0)
       coffee-script-source (~> 1.8)
       connection_pool
@@ -199,7 +199,7 @@ DEPENDENCIES
   rails (~> 4.2.5.2)
   rails-html-sanitizer (~> 1.0.3)
   rails_12factor
-  react-rails (~> 1.5.0)
+  react-rails (~> 1.6.2)
   rollbar
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
