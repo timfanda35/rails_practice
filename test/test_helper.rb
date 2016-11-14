@@ -5,7 +5,7 @@ require "minitest/rails"
 require "minitest/reporters"
 Minitest::Reporters.use! [Minitest::Reporters::SpecReporter.new]
 
-require 'simplecov'
+require "simplecov"
 SimpleCov.start
 
 # To add Capybara feature tests add `gem "minitest-rails-capybara"`
