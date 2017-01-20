@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+ruby "2.2.5"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 4.2.7.1'
@@ -59,3 +59,4 @@ gem 'rollbar'
 gem 'oj'
 gem 'nokogiri', '>= 1.6.8'
 gem 'rails-html-sanitizer', '~> 1.0.3'
+
