@@ -90,7 +90,7 @@ GEM
     multi_json (1.12.2)
     nokogiri (1.8.1)
       mini_portile2 (~> 2.3.0)
-    oj (3.3.5)
+    oj (3.3.6)
     pg (0.21.0)
     puma (3.10.0)
     rack (1.6.8)
