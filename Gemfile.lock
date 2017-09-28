@@ -134,7 +134,7 @@ GEM
     rdoc (4.3.0)
     rollbar (2.15.4)
       multi_json
-    ruby-progressbar (1.8.3)
+    ruby-progressbar (1.9.0)
     sass (3.5.1)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
