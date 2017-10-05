@@ -92,7 +92,7 @@ GEM
     multi_json (1.12.2)
     nokogiri (1.8.1)
       mini_portile2 (~> 2.3.0)
-    oj (3.3.7)
+    oj (3.3.8)
     pg (0.21.0)
     puma (3.10.0)
     rack (1.6.8)
@@ -135,7 +135,7 @@ GEM
     rollbar (2.15.4)
       multi_json
     ruby-progressbar (1.9.0)
-    sass (3.5.1)
+    sass (3.5.2)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
