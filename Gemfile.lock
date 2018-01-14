@@ -38,7 +38,7 @@ GEM
       tzinfo (~> 1.1)
     ansi (1.5.0)
     arel (6.0.4)
-    binding_of_caller (0.7.3)
+    binding_of_caller (0.8.0)
       debug_inspector (>= 0.0.1)
     builder (3.2.3)
     byebug (9.1.0)
@@ -88,11 +88,11 @@ GEM
       builder
       minitest (>= 5.0)
       ruby-progressbar
-    multi_json (1.13.0)
+    multi_json (1.13.1)
     nokogiri (1.8.1)
       mini_portile2 (~> 2.3.0)
     oj (3.3.10)
-    pg (0.21.0)
+    pg (1.0.0)
     puma (3.11.0)
     rack (1.6.8)
     rack-test (0.6.3)
