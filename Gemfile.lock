@@ -93,7 +93,7 @@ GEM
       mini_portile2 (~> 2.3.0)
     oj (3.3.10)
     pg (1.0.0)
-    puma (3.11.0)
+    puma (3.11.1)
     rack (1.6.8)
     rack-test (0.6.3)
       rack (>= 1.0)
