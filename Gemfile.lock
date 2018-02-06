@@ -57,7 +57,7 @@ GEM
     docile (1.1.5)
     erubis (2.7.0)
     execjs (2.7.0)
-    ffi (1.9.18)
+    ffi (1.9.21)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
     heroku-deflater (0.6.3)
