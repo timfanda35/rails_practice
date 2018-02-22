@@ -2,7 +2,7 @@ require 'test_helper.rb'
 
 describe WelcomeController do
   it "should get index" do
-    get :index
+    get '/'
     assert_response :success
   end
 end
