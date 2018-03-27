@@ -57,7 +57,8 @@ end
 gem 'rollbar'
 gem 'oj'
 gem 'nokogiri', '>= 1.6.8'
-gem 'rails-html-sanitizer', '~> 1.0.3'
+gem 'rails-html-sanitizer', '>= 1.0.4'
 
 # rails5
 gem "listen"
+gem 'loofah', '>= 2.2.1'
