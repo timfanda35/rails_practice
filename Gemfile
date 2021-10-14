@@ -62,5 +62,3 @@ gem 'rails-html-sanitizer', '>= 1.0.4'
 # rails5
 gem "listen"
 gem 'loofah', '>= 2.2.1'
-
-ruby '~> 2.5.0'
